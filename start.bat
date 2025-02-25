@@ -1,3 +1,4 @@
-python FivemServerInfo.py 
-python FivemServerInfo.py 
-python FivemServerInfo.py 
+python main.py 
+python main.py
+python main.py
+ 
